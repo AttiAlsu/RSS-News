@@ -1,7 +1,7 @@
 # RSS-News
 RSS-News is a rss-reader made for Windows 8.1. It is also fully working in Windows 10 and 11 but for those operating systems there are better options.
 
-![Splash2_620x300](https://github.com/user-attachments/assets/313d9908-cc01-4ed5-abc5-d44351bcdf0f)![RSS-News2 _300x300png](https://github.com/user-attachments/assets/948b7443-484e-4006-a6cf-8c24000c2bfa)
+![Splash2_620x300](https://github.com/user-attachments/assets/313d9908-cc01-4ed5-abc5-d44351bcdf0f)!
 
 Sreenshots
 ---------
