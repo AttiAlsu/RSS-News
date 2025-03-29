@@ -1,14 +1,25 @@
 # RSS-News
 RSS-News is a rss-reader made for Windows 8.1. It is also fully working in Windows 10 and 11 but for those operating systems there are better options.
 
+![Splash2_620x300](https://github.com/user-attachments/assets/313d9908-cc01-4ed5-abc5-d44351bcdf0f)![RSS-News2 _300x300png](https://github.com/user-attachments/assets/948b7443-484e-4006-a6cf-8c24000c2bfa)
 
-Support: 
+Sreenshots
+---------
+Mainpage ![kuva](https://github.com/user-attachments/assets/aab435dc-4874-4f53-8426-92c379eb79bb)
+Newspage ![kuva](https://github.com/user-attachments/assets/1ed494be-a8a1-4982-a3a7-f5f51b4c1e93)
+About ![kuva](https://github.com/user-attachments/assets/88f9a6ac-cd65-4c7f-bc8f-9ad4fadc60e5)
+---------
+Support
+---------- 
  - Reddit: u/Atti_alsu
  - Email: development.atti@gmail.com
 
 
 
 
+
+Notice
+--------------
 Continuing to develop this application is completely permitted and I encourage everyone to do so if they wish. However, if you continue to develop the application, you must adhere to the following rules.
 
 - On this application information page (this page) you will find my name and the names of everyone who has modified the package you are using before you.
