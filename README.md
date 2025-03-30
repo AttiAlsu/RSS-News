@@ -33,3 +33,9 @@ Continuing to develop this application is completely permitted and I encourage e
 Thank you for your understanding,
 
 Atti
+
+Known issues
+---------
+- Some feeds do not load at all on windows 8.1 but work fine on windows 10
+   - This is due to internet exploler 11 having some differences between the operating systems.
+   - If the feed opened in internet exploler says "This page can not be displayed" it will not work.
